@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "123 West 126th Street",
+    "price": 250,
+    "specs": {
+      "manufacturer": "John Doe",
+      "storage": 3,
+      "os": "Android",
+      "camera": 15
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
+    "rating": 4,
+    "image": {
+      "small": "assets/images/unit1.jpg",
+      "large": "assets/images/unit1-large.jpg"
+    }
+  },
+
+  {
+    "id": 2,
+    "name": "345 West 127th Street",
+    "price": 200,
+    "specs": {
+      "manufacturer": "Malcolm X",
+      "storage": 2,
+      "os": "Android",
+      "camera": 5
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
+    "rating": 4,
+    "image": {
+      "small": "assets/images/unit2.jpg",
+      "large": "assets/images/unit2-large.jpg"
+    }
+  },
+  {
+    "id": 3,
+    "name": "678 West 134th Street",
+    "price": 255,
+    "specs": {
+      "manufacturer": "Anthony Farrah",
+      "storage": 3,
+      "os": "Android",
+      "camera": 12
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
+    "rating": 4,
+    "image": {
+      "small": "assets/images/unit3.jpg",
+      "large": "assets/images/unit3-large.jpg"
+    }
+  },
+  {
+    "id": 4,
+    "name": "789 West 145th",
+    "price": 450,
+    "specs": {
+      "manufacturer": "Milt the Stilt",
+      "storage": 6,
+      "os": "Windows",
+      "camera": 5
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
+    "rating": 4,
+    "image": {
+      "small": "assets/images/unit4.jpg",
+      "large": "assets/images/unit4-large.jpg"
+    }
+   }
+  }
+]
